@@ -19,3 +19,16 @@ This is a simple, scalable, and cost-effective static website hosted using **Ama
 
 ## 📁 Project Structure
 
+/ (root directory)
+├── public/                       # Main website source files
+│   ├── index.html               # Homepage of the static site
+│   ├── style.css                # Main stylesheet
+│   ├── script.js                # JavaScript functionality (if any)
+│   └── assets/                  # Images, icons, fonts, etc.
+│       └── logo.png
+│
+├── .gitignore                   # Files/folders Git should ignore
+├── README.md                    # Project documentation (this file)
+├── LICENSE                      # Open source license (MIT)
+└── screenshots/                 # (Optional) Images of the website for preview
+    └── home-preview.png
